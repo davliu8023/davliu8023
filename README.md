@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davliu8023
 - 👀 I’m interested in mining data... and photography... and tennis... and scuba
 - 🌱 I’m currently learning GUE fundies
-- 💞️ I’m looking to collaborate on getting better at coding each day
+- 💞️ I’m looking forward to collaborate with people on project and get better at coding each day
 - 📫 How to reach me 
 
 <!---
